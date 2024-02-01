@@ -2,6 +2,7 @@
   "name": "1_menu",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://wee-owl.github.io/ra-router-menu/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
