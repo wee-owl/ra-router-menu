@@ -15,7 +15,7 @@ function App() {
         <Menu />
         <div className='page'>
           <Routes>
-            <Route path='/' exact Component={HomePage}/>
+            <Route path='/ra-router-menu' exact Component={HomePage}/>
             <Route path='/drift' Component={DriftPage}/>
             <Route path='/timeattack' Component={TimeAttackPage}/>
             <Route path='/forza' Component={ForzaPage}/>

@@ -7,7 +7,7 @@ function Menu() {
 
   return (
     <div className='menu'>
-      <NavLink to='/' className={activeClass()}>Главная</NavLink>
+      <NavLink to='/ra-router-menu' className={activeClass()}>Главная</NavLink>
       <NavLink to='/drift' className={activeClass()}>Дрифт-такси</NavLink>
       <NavLink to='/timeattack' className={activeClass()}>Time Attack</NavLink>
       <NavLink to='/forza' className={activeClass()}>Forza Karting</NavLink>
